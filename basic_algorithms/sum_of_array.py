@@ -3,11 +3,9 @@ Given an array of integers, find sum of its elements.
 """
 
 
-# Python program for sum of the array elements
-
 # functions to find sum of elements
 
-# Approach basic_algorithms
+# Approach 1
 def sum_1(arr):
     result = 0
     for x in arr:
