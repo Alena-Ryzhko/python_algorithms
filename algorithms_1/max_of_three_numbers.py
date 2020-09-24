@@ -1,5 +1,6 @@
 """
-Write a program which finds the largest among three numbers using if else and display it.
+A function to find the largest among three numbers and display it.
+
 """
 num1 = int(input(f'First number '))
 num2 = int(input(f'Second number '))

@@ -1,9 +1,10 @@
 """
-Write a program to check whether a year is leap year or not.
+Leap year.
+
+A program to check whether a year is leap year or not.
 
 """
 
-# Leap year
 
 year = int(input('Enter year '))
 

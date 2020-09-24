@@ -1,12 +1,10 @@
 """
-Write a function to find the factorial of a number and display it.
+A function to find the factorial of a number n provided by the user and display it.
 
 For example, the factorial of 6 is 1*2*3*4*5*6 = 720.
 Factorial is not defined for negative numbers, and the factorial of zero is one, 0! = 1.
+
 """
-
-
-# Python program to find the factorial of a number n provided by the user.
 
 
 def factorial(n):

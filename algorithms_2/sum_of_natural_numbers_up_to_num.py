@@ -1,8 +1,9 @@
 """
-Write a program to find the sum of n natural numbers using while loop and display it.
+Sum of natural numbers up to num.
+
+A program to find the sum of n natural numbers using while loop and display it.
 
 """
-# Sum of natural numbers up to num
 
 num = 16
 

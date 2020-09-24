@@ -1,11 +1,12 @@
 """
-Write a function which finds the sum of num natural numbers
+A function which finds the sum of num natural numbers.
 (sum of digits of a randomly generated number n)
+
 """
 
 from random import randint
 
-# Example_1
+# Approach 1
 
 
 def sum_of_natural_numbers_of_num(number_of_digits):
@@ -27,7 +28,7 @@ number_of_digits = int(input('Please enter number of digits of the random genera
 
 sum_of_natural_numbers_of_num(number_of_digits)
 
-# Example_2
+# Approach 2
 # n = randint(100, 999)
 #
 # print(f'We got random number {n}')

@@ -1,9 +1,10 @@
 """
 Given an array of integers, find sum of its elements.
+
 """
 
 
-# Approach algorithms_2
+# Approach 1
 def sum_1(arr):
     result = 0
     for x in arr:

@@ -1,11 +1,12 @@
 """
-Create a function to Print the Fibonacci sequence.
+A function to Print the Fibonacci sequence.
 
 The Fibonacci Sequence is the series of numbers:
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34,...
 
 Fn = Fn-1 + Fn-2
 but F0 = 0 and F1 = 1
+
 """
 
 
