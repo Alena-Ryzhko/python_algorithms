@@ -3,8 +3,6 @@ Given an array of integers, find sum of its elements.
 """
 
 
-# functions to find sum of elements
-
 # Approach 1
 def sum_1(arr):
     result = 0
