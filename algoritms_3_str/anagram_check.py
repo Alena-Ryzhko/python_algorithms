@@ -13,6 +13,7 @@ Input : str1 = "dad"
         str2 = "bad"
 Output : False                       # (because the strings aren't anagrams.)
 
+A function to check if both the strings are anagrams of each other:
 """
 
 

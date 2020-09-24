@@ -1,8 +1,7 @@
 """
 Leap year.
 
-A program to check whether a year is leap year or not.
-
+A program to check whether a year is leap year or not:
 """
 
 

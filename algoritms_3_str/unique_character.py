@@ -1,12 +1,11 @@
 """
 Unique Characters in a String.
 
-A program to remove all duplicates from a given string.
-
 Example:
     Input : geeksforgeeks
     Output : geksfor
 
+A program to remove all duplicates from a given string:
 """
 
 string = input(f'Enter the String ')

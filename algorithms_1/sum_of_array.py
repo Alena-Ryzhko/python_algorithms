@@ -1,6 +1,5 @@
 """
 Given an array of integers, find sum of its elements.
-
 """
 
 

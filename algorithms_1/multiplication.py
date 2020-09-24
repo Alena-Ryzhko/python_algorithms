@@ -1,6 +1,5 @@
 """
-A function to find multiplication of two numbers.
-
+A function to find multiplication of two numbers:
 """
 
 

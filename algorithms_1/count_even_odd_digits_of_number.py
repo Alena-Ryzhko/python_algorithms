@@ -1,6 +1,5 @@
 """
-A function to count Even/Odd Digits of Number.
-
+A function to count Even/Odd Digits of Number:
 """
 n = int(input(f'Enter a number '))
 

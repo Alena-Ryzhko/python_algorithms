@@ -1,7 +1,6 @@
 """
-A function which finds the sum of num natural numbers.
+A function which finds the sum of num natural numbers:
 (sum of digits of a randomly generated number n)
-
 """
 
 from random import randint

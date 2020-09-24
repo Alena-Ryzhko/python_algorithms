@@ -1,6 +1,5 @@
 """
 A function to print Seconds to  Hours, Minutes, Seconds ---> h:m:s
-
 """
 
 

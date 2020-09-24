@@ -15,6 +15,7 @@ Example:
     Input : wwwwaaadexxxxxx                         # if the input string it is,
     Output : w4a3dex6                               # then the function should return it
 
+A function to return the Run Length Encoded string:
 """
 
 string = input(f"Enter the String please ")
