@@ -1,6 +1,7 @@
 """
 Count Even/Odd Digits of Number
 """
+n = int(input(f'Enter a number '))
 
 
 def count_odd_even(n):
@@ -17,5 +18,4 @@ def count_odd_even(n):
     print(f"Even numbers in number  {even_count}")
 
 
-n = int(input(f'Enter a number '))
 count_odd_even(n)
