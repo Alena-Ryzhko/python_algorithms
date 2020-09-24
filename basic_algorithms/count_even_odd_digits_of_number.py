@@ -1,7 +1,6 @@
 """
 Count Even/Odd Digits of Number
 """
-# D_2
 
 n = int(input(f'Enter a number '))
 
