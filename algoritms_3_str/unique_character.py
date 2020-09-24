@@ -1,7 +1,7 @@
 """
 Unique Characters in a String.
 
-Write a program to remove all duplicates from a given string.
+A program to remove all duplicates from a given string.
 
 Example:
     Input : geeksforgeeks

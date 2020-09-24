@@ -2,7 +2,8 @@
 The string compression algorithm.
 
 Given an input string of a certain length,
-design an algorithm that compresses the string.
+an algorithm compresses the string.
+
 The string should be compressed such that consecutive duplicates of characters
 are replaced with the character
 and followed by the number of consecutive duplicates.
