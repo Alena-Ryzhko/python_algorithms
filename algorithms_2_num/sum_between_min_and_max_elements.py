@@ -25,4 +25,4 @@ def sum_between_min_and_max(array):
     return sum(subarray)
 
 
-print(sum_between_min_and_max([1, 1, 111, 5, 6, 7, -532, 7]))
+print(sum_between_min_and_max([4, 8, 23, -845, 700]))
